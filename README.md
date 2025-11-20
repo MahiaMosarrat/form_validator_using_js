@@ -6,7 +6,7 @@ It covers essential JavaScript topics such as **DOM Manipulation**, **functions*
 ---
 
 ## 🔗 Live Demo  
-👉 **View Project:** https://form-validator-js-project.netlify.app/
+👉 [Visit](https://form-validator-js-project.netlify.app/)
 
 | Image 1 | Image 2 |
 |--------|---------|
